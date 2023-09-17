@@ -1,0 +1,78 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+.formlogin{
+  height: 100vh;
+}
+.login-left .header h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 48px;
+  color: #000000;
+}
+
+.login-left .header p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #737373;
+  margin-bottom: 20px;
+}
+
+.login-left label {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+  margin-top: 20px;
+}
+
+.login-left a {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #737373;
+  margin: 20px 0;
+}
+
+.login-left .btnSignin{
+width: 100%;
+height: 42px;
+background: #000000;
+border-radius: 8px;
+color: #ffffff;
+margin-bottom: 5px;
+border: none;
+}
+
+.login-left .btnSigngoogle{
+width: 100%;
+height: 42px;
+background: #FFFFFF;
+border: 1px solid #BCBCBC;
+border-radius: 8px;
+margin-top: 5px;
+margin-bottom: 20px;
+}
+
+.login-left span{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #737373;
+  margin: 20px 0;
+}
+
+.login-left .signup a{
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+color: #000000;
+
+}
